@@ -1,0 +1,75 @@
+All the Labs
+Note: Direct pull request might not directly work for you as my OS is different.
+However, you may refer to the LOGIC and LAYOUT files.
+Lab 1 - https://github.com/Hash-himadri/Lab1_B
+Create “Hello World” application, That will display “Hello World” in the middle of
+the screen in the red color with white background.
+Lab 2 - https://github.com/Hash-himadri/Lab2_b
+Create my_info application that will display your name, qualification, contact
+name, email_id and address with background color gray. All details must have
+different colors. Change color of above program using java code.
+Lab 3 - https://github.com/Hash-himadri/Lab3_lifecycle
+Write a program to demonstrate life cycle of activity in android.
+Lab 4 - https://github.com/Hash-himadri/Lab4_buttons
+Create an application that designs a layout with a text box and button named
+submit. The user should enter the text in the text box. When submit button is
+clicked then the text in the text box should be displayed in the toast.
+Lab 5 - https://github.com/Hash-himadri/Lab5_Calculator_B
+Create an android application named “Arithmetic op” which perform all basic
+arithmetic operations like addition, subtraction, division and multiplication.
+Lab 6 - https://github.com/Hash-himadri/Lab6_autocomplete
+Create a simple program which show the use of autocomplete text view.
+Pre Lab 7(Extra) - https://github.com/Hash-himadri/PreLab7 You don’t have to
+write this in journal.
+Lab 7 - https://github.com/Hash-himadri/Lab7_Login
+Create a sample application with a login module. (Check username and
+password) on successful login, go to next screen and display username and on
+failing login, alert using Toast.
+Lab 11 - https://github.com/Hash-himadri/Lab11_optionsMenu
+Create a simple program to demonstrate Options menu.
+Lab 12 - https://github.com/Hash-himadri/Lab12_contextMenu
+Create a simple program to demonstrate Context menu.
+Lab 12 (Extra) - https://github.com/Hash-himadri/Lab12_contextualMenu You
+don’t have to write this in journal.
+Lab 9 - https://github.com/Hash-himadri/Lab_RadioButtons
+Create a simple Application which shows the use of a Radio button, take 3 radio
+buttons. When the radio button is selected we have to show the text of the radio
+button using Toast.
+Lab 10 - https://github.com/Hash-himadri/Lab11_CheckBox
+Create simple Application which show the use of Checkbox component, take 3
+checkbox and 1 button when you check the checkboxes and click on button then
+you have to show which checkbox is check with text of checkbox using Toast and
+show which CheckBox is checked.
+Lab 15 - https://github.com/Hash-himadri/Lab15_CameraAndVideoView
+Create simple Application which shows the use of
+● Video view and SeekBar.
+● Camera.
+Lab 17 - https://github.com/Hash-himadri/Lab17_DateandTimePicker
+Create simple Application which shows the use of TimePicker and Date Picker.
+Lab 18 - https://github.com/Hash-himadri/Lab18_Services
+Create an application in which two buttons start and stop service. When you
+press the start button one service should be started and when you press stop
+then service should be destroyed.
+Lab 19 - https://github.com/Hash-himadri/Lab19_BroadcastReceiver
+Create an application to demonstrate Broadcast Receiver with Wifi Manager.
+Lab 20 - https://github.com/Hash-himadri/Lab21_SharedPreference
+Create a sample application to demonstrate Shared Preferences with the login
+module.(Check username and password) On successful login, go to the next
+screen. And on failing login, alert the user using Toast. Also pass the username
+to the next screen. Use Validation. ()
+Lab 21 - https://github.com/Hash-himadri/SQLiteDemo - (Lab 21 to 25)
+Create an application to create a "school.db" database and create a table with
+the name "student" which contains columns (id, name, surname, mark) using
+SQLite database.
+Lab 22 - Create application to insert data into table "student" using SQLite
+database.
+Lab 23 - Create application which shows inserted data in table student in alert
+dialog box using SQLite database.
+Lab 24 - Create application which updates data in table student using SQLite
+database.
+Lab 25 - Create application which deletes record from table student using SQLite
+database.
+P.S.: I will add a readme for all projects for clear understanding, please refer to
+the same for future.
+Best of Luck!
+Thanks and Regards,
